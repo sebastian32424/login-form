@@ -1,0 +1,22 @@
+.form__box{
+    margin: 1.5em auto;
+}
+.label__form{
+    width: 100%;
+    margin: 1.2em 0;
+}
+.label__form span{
+    display: block;
+    font-family: var(--font-app);
+    font-size:1em;
+    font-weight: 300;
+    margin-bottom: 1em;
+}
+.label__form .content__area{
+    width: 100%;
+    min-height: 35px;
+    display: block;
+    padding: 1em;
+    border:.1em solid #ccc;
+    border-radius: .3em;
+}
