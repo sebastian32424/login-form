@@ -23,7 +23,7 @@ button,input{
 }
 .card__form{
   width:auto;
-  max-width:500px;
+  max-width:450px;
   background: var(--background-form);
   box-shadow: rgba(113, 113, 130, 0.2) 0px 7px 29px 0px;
   margin:  auto;
